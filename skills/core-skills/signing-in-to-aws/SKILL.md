@@ -1,7 +1,6 @@
 ---
 name: signing-in-to-aws
-description: |
-  Gets AWS credentials for CLI/SDK access via `aws login`. Activates when a developer needs to authenticate to AWS for local development, when an AWS operation fails due to missing or expired credentials, or when someone asks about setting up AWS access. Triggers: "set up AWS", "configure AWS", "aws login", "get credentials", "authenticate", "session expired", "token expired", "no credentials", "AccessDeniedException" with no configured credentials.
+description: Use when AWS CLI or SDK credentials are missing, expired, or need configuration through `aws login`
 ---
 
 # Sign In — Get CLI/SDK Credentials

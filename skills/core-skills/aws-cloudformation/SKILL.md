@@ -1,6 +1,6 @@
 ---
 name: aws-cloudformation
-description: Author, validate, and troubleshoot AWS CloudFormation templates. Covers template authoring with secure defaults, pre-deployment validation (cfn-lint, cfn-guard, change sets), and root-cause diagnosis of failed stacks using CloudFormation events and CloudTrail correlation.
+description: Use for authoring, validating, or troubleshooting AWS CloudFormation templates and failed stack deployments
 version: 1
 ---
 # CloudFormation
